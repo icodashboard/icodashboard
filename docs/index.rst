@@ -1,4 +1,7 @@
-#ICO Dashboard
+#############
+ICO Dashboard
+#############
+
 SERVER SOLUTIONS
 
 Review of the final versions of White Paper, landing page, and ICO announcement press release.
